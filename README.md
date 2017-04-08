@@ -1,0 +1,2 @@
+# ogasawaratech
+Ogasawara Project
